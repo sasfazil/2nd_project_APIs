@@ -1,0 +1,29 @@
+{
+  "name": "data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://sasfazil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@github.com/sasfazil/secound_project_data.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sasfazil/secound_project_data/issues"
+  },
+  "homepage": "https://github.com/sasfazil/secound_project_data#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongodb": "^4.12.0",
+    "morgan": "^1.10.0"
+  }
+}
